@@ -7,7 +7,7 @@
 
 +++++++++++++++++
 
-<p> Have a good day.... </p>
+<p> Have a nice day!!! </p>
 
 +++++++++++++++++
 </body>
