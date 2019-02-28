@@ -4,8 +4,10 @@
 <h2>Next build is planned on 1Mar2019</h2>
 View pipeline for more details
 
++++++++++++++++++
 
+Have a good day....
 
-view Have a good day....
++++++++++++++++++
 </body>
 </html>
