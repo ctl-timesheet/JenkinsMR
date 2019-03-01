@@ -20,7 +20,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>printing deployment date and time</title>
+<title>Automated deployment in test environment</title>
 </head>
 <body>
 Deployment performed at <%= (new java.util.Date()).toLocaleString()%>
