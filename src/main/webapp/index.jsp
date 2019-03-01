@@ -23,7 +23,7 @@
 <title>Automated deployment in test environment</title>
 </head>
 <body>
-Deployment performed at <%= (new java.util.Date()).toLocaleString()%>
+<p> Deployment performed at <%= (new java.util.Date()).toLocaleString()%> </p>
 </body>
 </html>
 
