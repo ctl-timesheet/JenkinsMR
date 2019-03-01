@@ -20,10 +20,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Guru current Date</title>
+<title>printing deployment date and time</title>
 </head>
 <body>
-Today's date: <%= (new java.util.Date()).toLocaleString()%>
+Deployment performed at <%= (new java.util.Date()).toLocaleString()%>
 </body>
 </html>
 
