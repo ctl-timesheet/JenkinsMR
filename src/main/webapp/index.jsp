@@ -1,5 +1,5 @@
 <html>
-<body text='magenta'>
+<body text='blue'>
 <h1>Cigniti MyTs test environment deployment is successfully completed!</h1>
 <h2>Next build is planned on 06 Mar 2019</h2>
 
