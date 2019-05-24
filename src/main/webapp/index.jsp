@@ -1,7 +1,7 @@
 <html>
 <body text='blue'>
 <h1>Cigniti MyTs test environment deployment is successfully completed!</h1>
-<h2>Next build is planned on 27 May 2019</h2>
+<h2>Next build is planned on 27_May_2019</h2>
 
 <p> View pipeline for more details </p>
 
