@@ -1,7 +1,7 @@
 <html>
 <body text='blue'>
 <h1>Cigniti MyTs test environment deployment is successfully completed!</h1>
-<h2>Next build using HARNESS TEST is planned on 11 Dec 2019</h2>
+<h2>Next build using HARNESS TEST is planned on 12 Dec 2019</h2>
 
 <p> View pipeline for more details </p>
 
